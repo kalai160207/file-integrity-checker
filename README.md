@@ -19,4 +19,4 @@ This tool uses the SHA-256 hashing algorithm, which generates a unique fingerpri
 
 # OUTPUT
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66e30a3e-e8c6-49b2-b9af-bc4265e4f192" />
